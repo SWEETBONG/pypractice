@@ -1,0 +1,12 @@
+print("slice"[1:4])
+print("slice"[0:2])
+print("slice"[1:3])
+print("slice"[2:4])
+print("slice"[1:])
+print("slice"[:3])
+print()
+hello="안녕하세요"
+print(hello[0:2])
+print(hello)
+print()
+print(len("hello"))
